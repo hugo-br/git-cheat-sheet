@@ -57,7 +57,9 @@ git status
 ## Stash changes
 - git stash (pause changes)
 - git stash pop (retrive changes)
-
+- git stash save ''
+- git stash list
+- git stash drop
 
 ## Command Prompt
 clear
